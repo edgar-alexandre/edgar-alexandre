@@ -1,55 +1,70 @@
-# 👋 Olá, eu sou o Edgar Alexandre (H3lboyAl3x)
+# 👋 Olá, sou o Edgar Alexandre
 
-Sou **Desenvolvedor Mobile** com foco em **React Native**, com experiência prática no desenvolvimento de **projetos próprios**, desde a concepção até a implementação. Tenho forte interesse em criar aplicações bem estruturadas, funcionais e com boa experiência do utilizador.
+**Fullstack & Mobile Developer** | React Native (Expo) • Flutter • Next.js • NestJS • Docker
 
-Atualmente, busco **oportunidades profissionais** na área de desenvolvimento, onde eu possa contribuir em equipe, aprender continuamente e evoluir como desenvolvedor.
+Com mais de **4 anos de experiência como Freelancer**, 6 meses atuando como **Desenvolvedor Web** e atualmente consolidado como **Desenvolvedor Fullstack**, dedico-me a criar ecossistemas digitais completos, escaláveis e focados na melhor experiência do utilizador.
+
+Gosto de transformar ideias em produtos reais — desde a arquitetura do backend e modelagem de dados até à interface mobile/web e automação de pipelines de implantação.
 
 ---
 
-## 🚀 Principais Tecnologias
+## 🛠️ Stack Tecnológica
 
 ### 📱 Mobile
-- React Native  
+- React Native (Expo)
 - Flutter
 
-### 🌐 Web
+### 🌐 Frontend
+- Next.js
 - React.js
-- HTML/CSS
+- HTML5 / CSS3 / Tailwind CSS
 
-### 🧠 Backend / APIs
-- Node.js  
-- Express.js
+### ⚙️ Backend & APIs
+- NestJS
+- Node.js & Express.js
 - ASP.NET
 
-### 🗄️ Banco de Dados
-- PostgreSQL  
-- MySQL  
+### 🗄️ Bancos de Dados
+- PostgreSQL
+- MySQL
+- MongoDB
 
-### 🧩 Linguagens
-- JavaScript
+### 🚀 DevOps & Ferramentas
+- Docker (Containerização)
+- CI/CD Pipelines
+- Git / GitHub
+
+### 🔤 Linguagens
 - TypeScript
+- JavaScript
 - C#
 - Dart
-- HTML/CSS
-- gdScript
+- GDScript
 
 ---
 
-## 🎯 Sobre mim
+## 💼 Percurso Profissional & Experiência
 
-- Desenvolvedor em início de carreira, com **forte base prática**
-- Facilidade para aprender novas tecnologias
-- Experiência em **apresentar projetos ao público**
-- Organização, disciplina e foco em evolução constante
-- Interesse em desenvolvimento mobile e backend
+- 🚀 **Fullstack & Mobile Developer (Atual):** Desenvolvimento end-to-end de aplicações utilizando React Native (Expo), Flutter, Next.js, NestJS, Docker e pipelines contínuas.
+- 🌐 **Desenvolvedor Web (6 meses):** Criação e manutenção de plataformas web dinâmicas e responsivas.
+- 🛠️ **Freelancer (4+ anos):** Planeamento, arquitetura e execução de projetos autónomos para diversos clientes e necessidades.
 
 ---
 
-## 📫 Contato
+## 🎯 Destaques & Soft Skills
 
-- LinkedIn: https://www.linkedin.com/in/edgar-alexandre-0aab0539b  
-- GitHub: https://github.com/H3lboyAl3x  
+- **Visão End-to-End:** Capacidade de transitar do design da base de dados ao deploy do app nas stores.
+- **Autonomia & Aprendizagem Contínua:** Facilidade comprovada para adotar novas ferramentas e padrões de arquitetura rapidamente.
+- **Comunicação & Apresentação:** Experiência prática em apresentar soluções e projetos ao público e a equipas.
+- **Organização & Qualidade:** Foco em boas práticas de código, estrutura limpa e entregas consistentes.
 
 ---
 
-⭐ Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução.
+## 📫 Vamos Conectar?
+
+- 💼 **LinkedIn:** [Edgar Alexandre](https://www.linkedin.com/in/edgar-alexandre-0aab0539b)
+- 🐙 **GitHub:** [@edgar-alexandre](https://github.com/edgar-alexandre)
+
+---
+
+⭐️ *Sinta-se à vontade para explorar os meus repositórios e acompanhar a minha jornada de desenvolvimento!*
